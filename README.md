@@ -3,4 +3,4 @@
 
 PHP Usage:
 
-http://domain/ipadressofserver/port.php?ip=(IP FOR CHECK)&port=(PORT FOR CHECK)
+http://domain/ipadressofserver/port.php?ip=IPFORCHECK)&port=PORTFORCHECK
